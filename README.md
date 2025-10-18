@@ -16,3 +16,6 @@ terraform validate
 terraform plan
 terraform apply -auto-approve
 
+## 🔄 Status
+This project has been destroyed.  
+Use `terraform apply -auto-approve` to re-create the resources when needed.
